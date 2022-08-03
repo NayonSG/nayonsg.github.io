@@ -20,12 +20,14 @@
 .cover-container h1 {
     color: white;
     font-size: 100px;
+    text-shadow: 1px 0px 1px #252525, 0px 1px 1px #252525, 2px 1px 1px #252525, 1px 2px 1px #252525, 3px 2px 1px #252525, 2px 3px 1px #252525, 4px 3px 1px #252525, 3px 4px 1px #252525, 5px 4px 1px #252525, 4px 5px 1px #252525, 6px 5px 1px #252525, 5px 6px 1px #252525, 7px 6px 1px #252525;
 }
 
 .cover-container p {
     color: white;
     margin-top: 10px;
     font-size: 32px;
+    text-shadow: 1px 0px 1px #252525, 0px 1px 1px #252525, 2px 1px 1px #252525, 1px 2px 1px #252525, 3px 2px 1px #252525, 2px 3px 1px #252525, 4px 3px 1px #252525, 3px 4px 1px #252525, 5px 4px 1px #252525, 4px 5px 1px #252525, 6px 5px 1px #252525, 5px 6px 1px #252525, 7px 6px 1px #252525;
 }
 
 
